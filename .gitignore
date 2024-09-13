@@ -1,0 +1,10 @@
+.idea/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+*.log
+*.pot
+media/
+static/
+__pycache__/
